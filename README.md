@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Jiyun Nam</h1>
-<h3 align="center">M.A of Business Intelligence&Analytics Student</h3>
+<h3 align="center">M.S of Business Intelligence&Analytics Student</h3>
 
 - 🔭 Projects
--  **Bank Marketing Analytics Project** [click here](https://github.com/jnam4/MIS632-Bank-Marketing-Data-Analysis-Project)
+-  [Bank Marketing Analytics Project](https://github.com/jnam4/MIS632-Bank-Marketing-Data-Analysis-Project)
 
-- 🌱 I’m currently learning **data engineering through Codecademy**
+- 🌱 Education
+- **M.S of Buiness Intelligence&Analytics** at Stevens Institute of Technology
+- **B.S of Finance** at Stevens Institute of Technology
 
-- 📝 I regularly write articles on [https://bit.ly/3WasM46](https://bit.ly/3WasM46)
+- 📄 Want to know more about me? [Jiyun's Resume](https://file.notion.so/f/f/07b3d916-5525-44d3-9415-aa9cf0c04787/c98d1503-4886-462d-97da-29950a494ea8/jiyun_nam_resume.pdf?table=block&id=1752f62a-a30d-80df-921c-c9e0a672d654&spaceId=07b3d916-5525-44d3-9415-aa9cf0c04787&expirationTimestamp=1736640000000&signature=5KP2o-UrhdZvlq5h-zl0yFLoqop4X6JRe8Bpsk4WxZM&downloadName=jiyun+nam_resume.pdf)
 
-- 📫 How to reach me **jnam4@stevens.edu**
-
-- 📄 Know about my experiences [http://bit.ly/3WczhTU](http://bit.ly/3WczhTU)
+- 📫 Feel free to reach out to me **jnam4@stevens.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
