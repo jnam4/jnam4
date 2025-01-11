@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jiyun Nam</h1>
 <h3 align="center">M.A of Business Intelligence&Analytics Student</h3>
 
-- 🔭 I’m currently working on **Bank Marketing Analytics Project**
+- 🔭 Projects
+-  **Bank Marketing Analytics Project** [click here](https://github.com/jnam4/MIS632-Bank-Marketing-Data-Analysis-Project)
 
 - 🌱 I’m currently learning **data engineering through Codecademy**
 
