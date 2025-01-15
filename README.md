@@ -3,6 +3,7 @@
 
 - 🔭 Projects
 -  [Bank Marketing Analytics Project](https://github.com/jnam4/MIS632-Bank-Marketing-Data-Analysis-Project)
+-  [DA/DE Study](https://github.com/jnam4/data_engineering/tree/main/codeacademy/Data%20Engineering)
 
 - 🌱 Education
 - **M.S of Buiness Intelligence&Analytics** at Stevens Institute of Technology
