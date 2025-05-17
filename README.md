@@ -9,7 +9,7 @@
 - **M.S of Buiness Intelligence&Analytics** at Stevens Institute of Technology
 - **B.S of Finance** at Stevens Institute of Technology
 
-- 📄 Want to know more about me? [Jiyun's Resume](https://drive.google.com/file/d/1DRW3gxCGv7ae09ynRXptgtoYzuS8zsRX/view?usp=sharing)
+- 📄 Want to know more about me? [Jiyun's Resume](https://drive.google.com/file/d/1cZTD5wxRqiU_O_17LnPwd15l_ER05Sby/view?usp=sharing)
 
 - 📫 Feel free to reach out to me **jnam4@stevens.edu**
 
